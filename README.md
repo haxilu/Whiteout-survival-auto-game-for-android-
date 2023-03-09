@@ -5,7 +5,7 @@
 
 step 1: open LdPlayer and download the 寒霜启示录助手.apk
 
-step 2: Make sure the android simulator is the same as what I set up
+step 2: Make sure the android simulator is the same as what I set up, Must 720 * 1280
 
 ![ae609cfd3181f7e863b5f5a885170f5](https://user-images.githubusercontent.com/39795435/223981491-bfbbfbae-e8e9-472c-9034-d883eb8248b4.png)
 
