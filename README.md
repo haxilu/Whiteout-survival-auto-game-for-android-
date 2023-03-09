@@ -24,3 +24,7 @@ step 5: open the 寒霜启示录助手 App,you can see
 
 ![6226ab249439e1607e54d58f0afb012](https://user-images.githubusercontent.com/39795435/223982867-2a55f5ba-0f2a-407a-b924-9fb32cc92044.png)
 
+
+
+
+you can join discord   https://discord.gg/QtPVA9DZ
